@@ -5,5 +5,5 @@ class GithubRepo
     @name = hash["name"]
     @url = hash["html_url"]
   end
-  # making a change
+  # submit to pass
 end
